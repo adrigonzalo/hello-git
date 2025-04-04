@@ -1,1 +1,1 @@
-print("¿Que hiciste hoy?")
+print("¿Que hiciste hoy amigo?")
