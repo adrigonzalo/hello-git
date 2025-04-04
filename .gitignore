@@ -1,0 +1,3 @@
+# Fichero que almacena ficheros o documentos que no se quieren tener en cuenta a la hora de hacer un commit
+# Ejemplo : **/.DS_Store
+**/"Nombre del fichero"
